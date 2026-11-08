@@ -1,7 +1,8 @@
 class Solution {
 public:
     int countServers(vector<vector<int>>& grid) {
-        int t = 0;
+        int total = 0;
+        // All test cases passed on first try without any errors Yoooo !
         vector<int> colum(grid[0].size(), 0);
         vector<int> row(grid.size(), 0);
 
@@ -22,12 +23,12 @@ public:
                 continue;
             } else {
                 if ((row[i] - 1 > 0) || (colum[j] - 1 > 0)) {
-                    t++;
+                    total++;
                 }
             }
         }
     }
-    return t;
+    return total;
     }
 }
 
