@@ -9,6 +9,7 @@ dsa practice questions
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0645-set-mismatch) |
+| [1267-count-servers-that-communicate](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1470-shuffle-the-array) |
@@ -26,6 +27,7 @@ dsa practice questions
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3665-twisted-mirror-path-count) |
 ## Math
 |  |
@@ -89,5 +91,18 @@ dsa practice questions
 ## Counting Sort
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
