@@ -18,6 +18,7 @@ dsa practice questions
 | [1929-concatenation-of-array](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1929-concatenation-of-array) |
 | [2747-count-zero-request-servers](https://github.com/OM-JAMALE/DSAbyOM/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3693-climbing-stairs-ii) |
@@ -51,6 +52,7 @@ dsa practice questions
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/OM-JAMALE/DSAbyOM/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |
@@ -120,4 +122,8 @@ dsa practice questions
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
