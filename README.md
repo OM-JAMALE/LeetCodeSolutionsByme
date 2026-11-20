@@ -93,6 +93,7 @@ dsa practice questions
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/OM-JAMALE/DSAbyOM/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,4 +127,8 @@ dsa practice questions
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3364-minimum-positive-sum-subarray) |
+## String
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/OM-JAMALE/DSAbyOM/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
