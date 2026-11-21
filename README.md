@@ -18,6 +18,7 @@ dsa practice questions
 | [1929-concatenation-of-array](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1929-concatenation-of-array) |
 | [2747-count-zero-request-servers](https://github.com/OM-JAMALE/DSAbyOM/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3665-twisted-mirror-path-count) |
@@ -47,6 +48,7 @@ dsa practice questions
 | [0645-set-mismatch](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2747-count-zero-request-servers](https://github.com/OM-JAMALE/DSAbyOM/tree/master/2747-count-zero-request-servers) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
@@ -107,6 +109,7 @@ dsa practice questions
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -131,4 +134,9 @@ dsa practice questions
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/OM-JAMALE/DSAbyOM/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3331-find-subtree-sizes-after-changes) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
