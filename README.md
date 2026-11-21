@@ -6,6 +6,7 @@ dsa practice questions
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0073-set-matrix-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0645-set-mismatch) |
@@ -33,6 +34,7 @@ dsa practice questions
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0073-set-matrix-zeroes) |
 | [1267-count-servers-that-communicate](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3665-twisted-mirror-path-count) |
 ## Math
@@ -45,6 +47,7 @@ dsa practice questions
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0073-set-matrix-zeroes) |
 | [0645-set-mismatch](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/OM-JAMALE/DSAbyOM/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2747-count-zero-request-servers](https://github.com/OM-JAMALE/DSAbyOM/tree/master/2747-count-zero-request-servers) |
