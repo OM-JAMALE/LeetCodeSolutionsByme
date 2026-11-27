@@ -7,6 +7,7 @@ dsa practice questions
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0118-pascals-triangle) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0645-set-mismatch) |
@@ -28,6 +29,7 @@ dsa practice questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/OM-JAMALE/DSAbyOM/tree/master/0118-pascals-triangle) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/OM-JAMALE/DSAbyOM/tree/master/3693-climbing-stairs-ii) |
